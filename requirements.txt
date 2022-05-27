@@ -1,0 +1,6 @@
+torch
+numpy
+rouge
+pandas
+datasets==1.4.1
+transformers==4.4.2
